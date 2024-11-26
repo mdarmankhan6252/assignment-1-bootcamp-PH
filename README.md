@@ -3,4 +3,4 @@
 
 <hr/>
 
-![Hosted Image](https://i.ibb.co.com/xFyJF0m/Nerdy-11-27-2024-12-23-AM.png)
+![my image](https://i.ibb.co.com/xFyJF0m/Nerdy-11-27-2024-12-23-AM.png)
